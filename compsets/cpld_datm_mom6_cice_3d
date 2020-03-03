@@ -28,6 +28,7 @@ test cpld_datm_mom6_cice_3d: datm_mom6_cice.exe {
     DATM_SRC="CFSR"          #source of datm
     FILENAME_BASE='cfsr.'    #prefix
     NFHOUT='6'   #forecast hour increment
+    EXTENDED_LMSK='.true.'
 
      SYEAR='2011'
     SMONTH='10'

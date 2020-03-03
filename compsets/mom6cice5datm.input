@@ -32,6 +32,7 @@ datm_defaults = {
     JATM='768'
     FILENAME_BASE='gfs.'
     NFHOUT='6'
+    EXTENDED_LMSK='.true.'
 }
 
 ########################################################################
